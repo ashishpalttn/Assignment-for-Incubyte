@@ -9,7 +9,7 @@ Handles empty strings and returns 0.
 Supports multiple numbers.
 
 ## Prerequisites
-Node.js (version 14 or higher)
+Node.js (version 14 or higher) <br/>
 npm (Node Package Manager)
 
 ## Installation
