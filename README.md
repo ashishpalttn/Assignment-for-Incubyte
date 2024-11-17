@@ -12,18 +12,18 @@ Supports multiple numbers.
 Node.js (version 14 or higher)
 npm (Node Package Manager)
 
-## Clone the repository
-[Clone Repository] 
-git clone https://github.com/ashishpalttn/Assignment-for-Incubyte.git
-Checkout tdd-assignment branch
+## Installation
+1- Clone the repository:
+  ```bash
+  git clone https://github.com/ashishpalttn/Assignment-for-Incubyte.git
 
-In the project directory, you can run:
-### npm install
-install dependencies
+2. Install the dependencies:
+  ```bash
+  npm install
 
-
-### npm test
-The project uses Jest for testing. To run the test suite:
+3. The project uses Jest for testing. To run the test suite:
+  ```bash
+   npm test
 
 ## Project Structure
 string-calculator/
