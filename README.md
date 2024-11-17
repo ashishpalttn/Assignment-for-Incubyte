@@ -20,13 +20,13 @@ npm (Node Package Manager)
 
 2. Install the dependencies:
 
-      ```bash
-      npm install
+    ```bash
+    npm install
 
 3. The project uses Jest for testing. To run the test suite:
 
-      ```bash
-       npm test
+    ```bash
+    npm test
 
 
 
