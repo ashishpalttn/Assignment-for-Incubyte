@@ -13,9 +13,11 @@ Node.js (version 14 or higher)
 npm (Node Package Manager)
 
 ## Clone the repository
-[git clone https://github.com/ashishpalttn/Assignment-for-Incubyte.git] (git clone https://github.com/ashishpalttn/Assignment-for-Incubyte.git)
-git checkout tdd-assignment branch
+[Clone Repository] 
+git clone https://github.com/ashishpalttn/Assignment-for-Incubyte.git
+Checkout tdd-assignment branch
 
+In the project directory, you can run:
 ### npm install
 install dependencies
 
