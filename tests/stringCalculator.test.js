@@ -15,3 +15,11 @@ test('should return the sum of two common-separated numbers',()=>{
 test('should return the sum of multiple comma-separated numbers', () => {
     expect(stringCalculator.add("10,20,30")).toBe(60);
 });
+
+test('should throw an exception for negative numbers', () => {
+    expect(() => stringCalculator.add("1,-5")).toThrow("Negatives not allowed: -5");
+});
+
+test('should throw an exception for all negative numbers', () => {
+    expect(() => stringCalculator.add("1, -5, -10")).toThrow("Negatives not allowed: -5, -10");
+})
