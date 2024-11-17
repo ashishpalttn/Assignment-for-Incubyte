@@ -17,13 +17,16 @@ npm (Node Package Manager)
 
      ```bash
       git clone https://github.com/ashishpalttn/Assignment-for-Incubyte.git
+2. Move to tdd-assignment branch
+   ```bash
+   git checkout tdd-assignment
 
-2. Install the dependencies:
+4. Install the dependencies:
 
     ```bash
     npm install
 
-3. The project uses Jest for testing. To run the test suite:
+5. The project uses Jest for testing. To run the test suite:
 
     ```bash
     npm test
