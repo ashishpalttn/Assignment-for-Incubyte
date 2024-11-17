@@ -32,6 +32,8 @@ npm (Node Package Manager)
     npm test
 
 
+## Screenshot
+![Description of Screenshot](./assets/assessment.png)
 
 ### Project Structure
 string-calculator/
