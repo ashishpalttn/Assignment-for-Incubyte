@@ -15,8 +15,8 @@ npm (Node Package Manager)
 ## Installation
 1- Clone the repository:
 
-    ```bash
-    git clone https://github.com/ashishpalttn/Assignment-for-Incubyte.git
+     ```bash
+     git clone https://github.com/ashishpalttn/Assignment-for-Incubyte.git
 
 2. Install the dependencies:
 
