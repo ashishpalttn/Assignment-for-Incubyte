@@ -13,7 +13,7 @@ Node.js (version 14 or higher)
 npm (Node Package Manager)
 
 ## Installation
-1- Clone the repository:
+1. Clone the repository:
 
      ```bash
       git clone https://github.com/ashishpalttn/Assignment-for-Incubyte.git
